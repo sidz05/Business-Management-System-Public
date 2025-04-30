@@ -43,3 +43,13 @@ npm run dev
 
 npx vite build
 netlify deploy --prod
+![Screenshot (90)](https://github.com/user-attachments/assets/e4fe8696-c721-4835-a9b3-08fd2323b137)
+![Screenshot (89)](https://github.com/user-attachments/assets/b4ce90c5-b2be-4e8c-bcf5-2f4c956c61f7)
+![Screenshot (88)](https://github.com/user-attachments/assets/b4cad9b1-1410-4e20-a1f6-82f491eed09a)
+
+
+Output:![Screenshot (92)](https://github.com/user-attachments/assets/e091f2a7-ecea-48e5-abae-13b49c77dd08)
+![Screenshot (91)](https://github.com/user-attachments/assets/d0dec920-3ad6-4c96-a708-a7728fc59de9)
+
+![image](https://github.com/user-attachments/assets/3fc75be8-b123-47ab-8071-53905c354933)
+
